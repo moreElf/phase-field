@@ -9,6 +9,7 @@ env/
 
 # Compiled Fortran programs
 phase_field
+case_field
 *.exe
 *.out
 
@@ -17,10 +18,12 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+*.py
 .Python
 
+
 # Generated plots
-*.png
+# *.png
 *.jpg
 *.jpeg
 *.pdf
@@ -51,3 +54,4 @@ Thumbs.db
 *.bak
 *.backup
 *~
+
